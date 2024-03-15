@@ -1,0 +1,2 @@
+[webservers]
+10.150.250.166 ansible_user=uat
